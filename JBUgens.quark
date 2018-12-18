@@ -1,0 +1,11 @@
+(
+name:		"JBUgens",
+summary:	"A collection of (pseudo) ugens",
+author:		"johannes@ljud.org",
+copyright:	"Johannes Burström, 2018",
+license:	"MIT",
+version: 	"0.0.1",
+schelp: 	"JBUgens",
+url:		"https://github.com/jpburstrom/JBUgens",
+)
+
